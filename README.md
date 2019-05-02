@@ -58,6 +58,7 @@ folder/
   - document_version
 ```
 will result in the following two documents being pushed:
+
 1.
    ```js
    {
