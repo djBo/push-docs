@@ -1,0 +1,21 @@
+{
+	"name": "push-docs",
+	"description": "Push documents to CouchDB",
+	"main": "index.js",
+	"bin": "cli.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/djBo/push-docs"
+	},
+	"author": "Rory Slegtenhorst",
+	"license": "",
+	"bugs": {
+		"url": "https://github.com/djBo/push-docs/issues"
+	},
+	"homepage": "https://github.com/djBo/push-docs",
+	"dependencies": {
+		"file-type": "^10.11.0",
+		"minimist": "^1.2.0"
+	},
+	"version": "1.0.0-SNAPSHOT"
+}
